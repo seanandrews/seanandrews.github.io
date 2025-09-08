@@ -22,10 +22,10 @@ repository               : "seanandrews/seanandrews.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me_2024.jpg"
   name             : "Sean Andrews"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Astrophysicist, Smithsonian"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
