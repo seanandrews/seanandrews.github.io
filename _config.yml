@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  ads              : "https://ui.adsabs.harvard.edu/public-libraries/ccIAgeefQ2qeLBoBN5t5dg"
+  ai-ads           : "https://ui.adsabs.harvard.edu/public-libraries/ccIAgeefQ2qeLBoBN5t5dg"
   arxiv            : "https://ui.adsabs.harvard.edu/public-libraries/ccIAgeefQ2qeLBoBN5t5dg"
   googlescholar    : "https://scholar.google.com/citations?user=dJm60ZoAAAAJ&hl"
   inspire-hep      : # URL
