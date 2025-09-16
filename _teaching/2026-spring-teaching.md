@@ -2,7 +2,7 @@
 title: "Astronomy 210: Origins of Planetary Systems"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2026-spring-teaching-1
+permalink: 
 venue: "Harvard University, Department of Astronomy"
 date: 2026-01-26
 location: "Cambridge, MA, USA"
