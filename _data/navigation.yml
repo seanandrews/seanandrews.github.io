@@ -12,7 +12,7 @@ main:
     url: /group/
     
   - title: "Publications"
-    url: /publications/
+    url: https://ui.adsabs.harvard.edu/public-libraries/ccIAgeefQ2qeLBoBN5t5dg
 
   - title: "Data"
     url: /data/
