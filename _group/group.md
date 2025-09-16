@@ -1,1 +1,0 @@
-We run a joint group environment that combines the research programs of three CfA staff members — Sean Andrews, Karin Öberg, and David Wilner — and uses astronomical observations, theory and modeling, and laboratory astrochemistry experiments to learn about (star and) planet formation.
