@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-We run a joint group environment that combines the research programs of three CfA staff members — [Sean Andrews](https://seanandrews.github.io), [Karin Öberg](https://karinoberg.cfa.harvard.edu), and [David Wilner](https://lweb.cfa.harvard.edu/~dwilner/) — and uses astronomical observations, theory and modeling, and laboratory astrochemistry experiments to learn about (star and) planet formation.
+We run a joint group environment that combines the (usually overlapping) research programs of three CfA staff members — [Sean Andrews](https://seanandrews.github.io), [Karin Öberg](https://karinoberg.cfa.harvard.edu), and [David Wilner](https://lweb.cfa.harvard.edu/~dwilner/) — and uses astronomical observations, theory and modeling, and laboratory astrochemistry experiments to learn about (star and) planet formation.
 
 ### Current Graduate Students:
 
