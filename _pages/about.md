@@ -16,5 +16,5 @@ Are you a prospective graduate student or postdoctoral fellow interested in join
 ---
 <div class="page__footer-follow">
   <div id="clustrmaps-widget">
-      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=000000&w=100&t=n&d=UBUZxPpowEKldTnKpls0B3XrPECROlJixdujffbGUgs&co=ffffff&ct=ffffff"></script>  
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=000000&w=150&t=n&d=UBUZxPpowEKldTnKpls0B3XrPECROlJixdujffbGUgs&co=ffffff&ct=ffffff"></script>
   </div>
