@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+A brief PDF version of [my CV is available](files/Andrews_brief_CV_2025.pdf).
+
+
+
 Education
 -
 * Ph.D in Astronomy, University of Hawai'i, 2007
@@ -21,5 +26,3 @@ Academic Positions
 * 2019 - : Director, Radio Telescope Data Center at CfA
 * 2010 - : Lecturer, Harvard University Department of Astronomy
 * 2010 - 2024: Astrophysicist at SAO
-
-A brief PDF version of [my CV is available](files/Andrews_brief_CV_2025.pdf).
