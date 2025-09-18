@@ -13,9 +13,9 @@ Our group specializes in measuring the physical, chemical, and dynamical conditi
 
 Are you a prospective graduate student or postdoctoral fellow interested in joining the group to work on these or similar topics?  Please get in touch!
 
-<right>
+---
+
 <div class="page__footer-follow">
   <div id="clustrmaps-widget">
       <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=UBUZxPpowEKldTnKpls0B3XrPECROlJixdujffbGUgs&co=a7beeb"></script>
   </div>
-</right>
