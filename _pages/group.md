@@ -70,8 +70,8 @@ We run a joint group environment that combines the (usually overlapping) researc
 - [Luca Ricci](https://academics.csun.edu/faculty/luca.ricci) (SMA Fellow, 2014-2017) → faculty at Cal State Northridge
 - [Joey Rodriguez](https://sites.google.com/site/josepherodriguezjr) (Future Faculty Leaders Fellow, 2016-2019) → faculty at Michigan State
 - Carlos Romero-Mirza (PhD 2025) → ()
-- Katherine Rosenfeld ([PhD 2016](https://ui.adsabs.harvard.edu/abs/2016PhDT........23R/abstract)) → senior research scientist at The Bill & Melinda Gates Foundation
+- [Katherine Rosenfeld](https://krosenfeld.github.io) ([PhD 2016](https://ui.adsabs.harvard.edu/abs/2016PhDT........23R/abstract)) → research scientist at The Institute for Disease Modeling
 - [Rich Teague](https://pfl.mit.edu) (SMA Fellow, 2019-2022) → faculty at MIT
-- [Anjali Tripathi](https://exoplanets.nasa.gov/exep/about/people/) ([PhD 2018](https://ui.adsabs.harvard.edu/abs/2018PhDT........81T/abstract)) → staff at NASA JPL
+- [Anjali Tripathi](https://science.jpl.nasa.gov/people/anjali-tripathi) ([PhD 2018](https://ui.adsabs.harvard.edu/abs/2018PhDT........81T/abstract)) → staff at NASA JPL
 - [Takahiro Ueda](https://tueda0202.github.io) (JSPS Overseas Fellow, 2024-2025) → faculty at NAOJ 
 
