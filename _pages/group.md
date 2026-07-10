@@ -16,9 +16,9 @@ We run a joint group environment that combines the (usually overlapping) researc
 - Anna Fehr
 - Marissa Maney
 - Alexandra McKinnon
-- Jéa Redai
+- [Jéa Redai](https://jearedai.com)
 - Clara Ross
-- Elizabeth (Liza) Yunerman
+- [Elizabeth (Liza) Yunerman](https://eyunerman.github.io)
 - [Qijia Zhou](https://qijiazhou.github.io)
 
 
