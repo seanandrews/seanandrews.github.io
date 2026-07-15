@@ -16,5 +16,5 @@ Are you a prospective graduate student or postdoctoral fellow interested in join
 ---
 <div class="page__footer-follow">
   <div id="clustrmaps-widget">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cZzH1wgTGAYt3VGCH_q0Pm9wRiAX8hWuDD-yZnHhGvI&cl=ffffff&w=a"></script>
+    <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=150&t=n&d=cZzH1wgTGAYt3VGCH_q0Pm9wRiAX8hWuDD-yZnHhGvI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
   </div>
